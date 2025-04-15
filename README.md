@@ -38,9 +38,10 @@
 "express", "express-session", "joi", "method-override", "mongoose",
 "multer", "multer-storage-cloudinary", "passport", "passport-local",
 "passport-local-mongoose"
+```
 
+```plaintext
 
-// project structure 
 📦 nestify_HomeRentalApp
 ├── controller/               # All route logic
 ├── models/                  # Mongoose schemas
@@ -56,6 +57,7 @@
 ├── .gitignore
 ├── package.json
 └── README.md
+```
 
 ## 📌 Getting Started
 
